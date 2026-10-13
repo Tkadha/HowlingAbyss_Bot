@@ -31,11 +31,13 @@
 
 **칼바람 챔피언 분배** (`!칼바람 15`)
 
-!\[칼바람 챔피언 분배](images/image1.png)
+!\[칼바람 챔피언 분배](<img width="1032" height="197" alt="image1" src="https://github.com/user-attachments/assets/8dcfec3f-8d15-489a-8eb0-4105da6c8dd5" />
+)
 
 **진영 추첨** (`!진영 이름1 이름2`)
 
-!\[진영 추첨](images/image2.png)
+!\[진영 추첨](<img width="326" height="145" alt="image2" src="https://github.com/user-attachments/assets/fb2e53f8-c5d9-47ba-9009-699519e529cc" />
+)
 
 ## 개발 환경
 
